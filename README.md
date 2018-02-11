@@ -6,9 +6,9 @@ TURNI
 
 I turni da seguire sono (inserite i nomi di chi pensa che andrà a quella lezione, l'ideale sarebbe avere almeno due persone per lezione)
 
-Lunedì 14-16 aula ignota: Beppe, Elia
+Lunedì 14-16 aula D1: Beppe, Elia
 
-Venerdì 16-18 aula ignota: Beppe, 
+Venerdì 16-18 aula B1: Beppe, 
 
 
 REGOLE GENERALI PER LaTeX:
